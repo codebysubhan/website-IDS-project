@@ -50,10 +50,10 @@ Conducted testing and debugging to ensure all features function as intended.
 
 Created this README.md file to provide an overview of the project, setup instructions, and a log of key actions.
 
-## Reflection
+## Reflection 
 
 Working on this project with Git and GitHub provided a valuable opportunity to deepen my understanding of version control and collaboration in a team setting. Initially, I found Git to be straightforward for managing the project locally, but as the project grew and I began collaborating with a team member, new challenges emerged.
 
 One of the primary issues we faced was managing merge conflicts. When both of us were working on different branches and trying to merge our changes into the main branch, we encountered several conflicts, especially in shared files like index.html. At first, this was overwhelming because it disrupted our workflow. However, by carefully reviewing the conflicting sections and having clear communication between team members, we were able to resolve these conflicts.
 
-Additionally, understanding the concept of branching was critical. Each feature or update was developed in its own branch, ensuring that the main branch remained stable. This approach allowed us to experiment freely without affecting the core functionality of the project.
+Understanding the concept of branching was critical. Each feature or update was developed in its own branch, ensuring that the main branch remained stable. This approach allowed us to experiment freely without affecting the core functionality of the project.
