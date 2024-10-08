@@ -4,7 +4,7 @@
 This is a **portfolio website** for **Creative Minds**, a fictional design agency. The website showcases the agency’s services, team, and contact information in a visually engaging way, reflecting the agency's creativity and innovation. Built with modern web development technologies, the project highlights responsive design, intuitive navigation, and clean aesthetics.
 
 ## Contributors
-Subhan Ali  \n
+Subhan Ali <br>
 Muhammad Bilal
 
 ## Instructions
